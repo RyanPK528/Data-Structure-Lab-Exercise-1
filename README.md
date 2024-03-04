@@ -18,7 +18,4 @@ This repository contains a simple Java program demonstrating the use of Object-O
 
 To run the program, compile all Java files in the repository and execute the Main class.
 
-```bash
-javac Animal.java Lion.java Main.java
-java Main
 
